@@ -7,11 +7,11 @@ Conjuring Bot is a general-purpose Discord bot that allows users to use various 
 Information We Collect
 
 The content of edited and deleted messages are temporarily stored.
-Users who do not wish to have their content saved can opt out using /opt out command
-Opted out users will not have any of their edited/deleted messages saved, but they will also not be able to snipe other users' content
+Users who do not wish to have their content saved can opt out using /opt out command.
+Opted out users will not have any of their edited/deleted messages saved, but they will also not be able to snipe other users' content.
 Users who misuse the snipe command can immediately be reported in our support server, and might face permanent termination from using the bot
 Misuse might include, but is not limited to, harassing other members
-
+Other data being stored are affiliated to the customized server bot settings, such as autoresponse triggers, mod logging channels, etc.
 
 Use of Information
 
