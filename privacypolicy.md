@@ -26,11 +26,11 @@ The content of edited and deleted messages are stored in the memory of the serve
 Security
 
 We take the security of your information seriously and have implemented appropriate technical and organizational measures to protect it from unauthorized access, modification, or disclosure.
-
+We do not share any data or preference with anyone.
 
 Data Processing and Storage
 
-The Bot is hosted on servers operated by DigitalOcean. and any data collected by the Bot is stored on those servers. We do not transfer any data collected by the Bot to any third-party servers.
+The Bot is hosted on servers operated by DigitalOcean, and any data collected by the Bot is stored on those servers. We do not transfer any data collected by the Bot to any third-party servers.
 
 
 Changes to This Privacy Policy
