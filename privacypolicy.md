@@ -2,7 +2,7 @@ Privacy Policy for Conjuring Bot
 
 Effective Date: 08/03/2023
 
-Conjuring Bot is a general-purpose Discord bot that allows users to use various commands, including an auto response command. This privacy policy explains how the Bot collects, uses, and protects any personal information that you provide when using the Bot.
+Conjuring Bot is a general-purpose Discord bot that allows users to use various commands, including an auto response and a snipe command. This privacy policy explains how the Bot collects, uses, and protects any personal information that you provide when using the Bot.
 
 Information We Collect
 
@@ -11,7 +11,7 @@ Users who do not wish to have their content saved can opt out using /opt out com
 Opted out users will not have any of their edited/deleted messages saved, but they will also not be able to snipe other users' content.
 Users who misuse the snipe command can immediately be reported in our support server, and might face permanent termination from using the bot.
 Misuse might include, but is not limited to, harassing other members.
-Other data being stored are affiliated to the customized server bot settings, such as autoresponse triggers, mod logging channels, etc.
+Other data being stored are affiliated to the customiable server bot settings, such as autoresponse, mod logging channels, etc.
 
 Use of Information
 
@@ -35,7 +35,7 @@ The Bot is hosted on servers operated by DigitalOcean, and any data collected by
 
 Further Notice
 
-For obvious reasons, triggers and responses used in autoresponse are stored in a database. We do not expect you to save any sensitive information. You should be expecting that any member in the server saying a message containing a trigger set will be responded to with the set response.
+For obvious reasons, triggers and responses used in autoresponse are stored in a database. We do not expect you to save any sensitive information. You should be expecting that any member joining the server saying a message containing a trigger set by you will be responded to with the set response.
 
 Changes to This Privacy Policy
 
