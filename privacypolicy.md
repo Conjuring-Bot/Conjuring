@@ -33,6 +33,10 @@ Data Processing and Storage
 The Bot is hosted on servers operated by DigitalOcean, and any data collected by the Bot is stored on those servers. We do not transfer any data collected by the Bot to any third-party servers.
 
 
+Further Notice
+
+For obvious reasons, triggers and responses used in autoresponse are stored in a database. We do not expect you to save any sensitive information. You should be expecting that any member in the server saying a message containing a trigger set will be responded to with the set response.
+
 Changes to This Privacy Policy
 
 We reserve the right to make changes to this privacy policy at any time. We encourage you to review this policy periodically to stay informed about how we are protecting your information.
