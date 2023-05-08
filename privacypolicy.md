@@ -20,7 +20,7 @@ Stored message contents is used in the snipe command to help moderators access e
 
 Data Retention
 
-The content of edited and deleted messages are stored in the memory of the server, and it's deleted after 15 minutes.
+The content of edited and deleted messages are stored in the memory of the server, and it's deleted after 15 minutes automatically (this can't be customized, all servers will have the sniped messages deleted after 15 minutes).
 Server related customizable settings are stored in a secure database.
 
 Security
