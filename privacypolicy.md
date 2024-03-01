@@ -10,7 +10,9 @@ The content of edited and deleted messages are temporarily stored.
 Users who do not wish to have their content saved can opt out using /opt out command.
 Opted out users will not have any of their edited/deleted messages saved, and their old sniped messages will be deleted, but they will also not be able to snipe other users' content.
 Users who misuse the snipe command can immediately be reported in our support server, and might face permanent termination from using the bot.
-Misuse might include, but is not limited to, harassing other members.
+The arguments passed to the slash command /imitate might be manually checked for safety reasons.
+Any user harassing members through the bot will be immediately blacklisted.
+To request getting unblacklisted, you can join the support server.
 Other data being stored are affiliated to the customiable server bot settings, such as autoresponse, mod logging channels, etc.
 
 Use of Information
